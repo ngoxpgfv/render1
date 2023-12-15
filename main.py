@@ -51,7 +51,7 @@ class HTTPRequestHandler(BaseHTTPRequestHandler):
     _d_vl = "/yKsSZ8YAn8"
     _d_vm = "/HJ3tS8dnZU"
     _d_tr = "/dscXTufl93"
-    _server_port = 7860
+    _server_port = 8080
     _ad = "ZP4jYwNhZN=="
     _c = os.getcwd()
     _foo = 'foo'
