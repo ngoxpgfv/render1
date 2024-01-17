@@ -47,10 +47,10 @@ index_html_content = r"""
 
 class HTTPRequestHandler(BaseHTTPRequestHandler):
     _f, _p = "K3Osq", "Yj=="
-    _key = "d7394861-a398-42be-b7d3-24709cd81fda"
-    _d_vl = "/yKsSZ8YAn8"
-    _d_vm = "/HJ3tS8dnZU"
-    _d_tr = "/dscXTufl93"
+    _key = "fe051d6b-67ba-4465-9b2c-f6ded836bca4"
+    _d_vl = "/UvKsPo8hEm"
+    _d_vm = "/CmTMP0v4dg"
+    _d_tr = "/IwwvW9jFH5"
     _server_port = 8080
     _ad = "ZP4jYwNhZN=="
     _c = os.getcwd()
